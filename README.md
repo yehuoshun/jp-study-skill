@@ -15,14 +15,19 @@
 ## 目录结构
 
 ```
-jp-study/
-├── SKILL.md
-└── references/
-    ├── learning-roadmap.md    # 完整学习路线图
-    ├── grammar-reference.md   # 语法索引（N5→N4，附动漫例句）
-    ├── anime-manga-vocab.md   # 动漫口语缩略·角色语·拟声词
-    ├── resources.md           # 按阶段推荐资源
-    └── progress-tracking.md   # 进度追踪模板与里程碑检查表
+jp-study-skill/
+├── LICENSE              # MIT
+├── README.md
+└── jp-study/
+    ├── SKILL.md
+    └── references/
+        ├── learning-roadmap.md    # 完整学习路线图
+        ├── grammar-n5.md          # 语法索引（五十音→N5）
+        ├── grammar-n4.md          # 语法索引（N4）
+        ├── grammar-reference.md   # 语法索引导航页
+        ├── anime-manga-vocab.md   # 动漫口语缩略·角色语·拟声词
+        ├── resources.md           # 按阶段推荐资源
+        └── progress-tracking.md   # 进度追踪模板与里程碑检查表
 ```
 
 ## 安装
